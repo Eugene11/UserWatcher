@@ -1,0 +1,2 @@
+serviceClass: com.google.gwt.sample.userwatcher.client.rpc.RpcService
+path: 3795CB32297F57B6EBCA3146317B1A2A.gwt.rpc
